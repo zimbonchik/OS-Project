@@ -1,0 +1,17 @@
+todo-list-manager/
+│
+├── app/
+│   ├── __init__.py
+│   ├── routes.py
+│   ├── static/
+│   │   ├── styles.css
+│   ├── templates/
+│   │   ├── base.html
+│   │   └── index.html
+│
+├── tests/
+│   └── test_routes.py
+│
+├── .gitignore
+├── README.md
+└── requirements.txt
